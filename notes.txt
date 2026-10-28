@@ -5,3 +5,4 @@ My role is Member 4.
 I am learning repository management and testing.
 I am learning how to test software.
 I will help my team check the project before submission.
+I am practising Git commands for ASTRA.
