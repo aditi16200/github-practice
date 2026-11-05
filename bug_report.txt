@@ -1,0 +1,21 @@
+BUG REPORT
+
+Bug ID: 001
+Bug Title: Incorrect division result
+
+File Name: calculator.py
+
+Description:
+The calculator gives an incorrect result
+for a division operation.
+
+Input:
+10 / 2
+
+Expected Output:
+5.0
+
+Actual Output:
+10.0
+
+Status: Resolved
