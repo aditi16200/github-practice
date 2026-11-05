@@ -1,0 +1,8 @@
+ASTRA Testing Notes
+
+1. Run the Python program.
+2. Execute all test cases.
+3. Check PASS and FAIL results.
+4. Identify errors.
+5. Prepare bug reports.
+6. Verify corrected programs.
